@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">At&amp;t Anki Demo</string>
+    <string name="start_demo_button">Start</string>
+    <string name="end_demo_button">Stop</string>
+    <string name="demo1_name">Demo 1</string>
+    <string name="demo2_name">Demo 2</string>
+    <string name="demo3_name">Demo 3</string>
+
+    <string name="title_activity_demo2">Demo2Activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_demo1">Demo1Activity</string>
+
+    <string-array name="car_names">
+        <item>Guardian</item>
+        <item>Thermo</item>
+        <item>Ground Shock</item>
+        <item>Skull</item>
+        <item>Nuke</item>
+        <item>Big Bang</item>
+    </string-array>
+    <string-array name="car_selection_names">
+        <item>None selected</item>
+        <item>Guardian</item>
+        <item>Thermo</item>
+        <item>Ground Shock</item>
+        <item>Skull</item>
+        <item>Nuke</item>
+        <item>Big Bang</item>
+    </string-array>
+
+</resources>
